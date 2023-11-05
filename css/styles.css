@@ -470,7 +470,6 @@ button {
   gap: 24px;
 }
 
-
 .footer-subscribe-email-input {
   width: 264px;
   height: 40px;
@@ -511,7 +510,6 @@ button {
 .telegram-icon {
   margin-left: 16px;
 }
-
 
 .backdrop {
   position: fixed;
